@@ -8,6 +8,8 @@ Here are some projects done recently:-
 - 🌱 I’m currently exploring and learning **New Tech Stuff**
 - 📫 Connect with me : [Linkedin](https://www.linkedin.com/in/mohitjpr/) 
 
+[![@mohitjpr's Holopin board](https://holopin.me/mohitjpr)](https://holopin.io/@mohitjpr)
+
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohitjpr&theme=aura_dark&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohitjpr&repo=CV-by-HTML&show_owner=true&theme=aura_dark)](https://github.com/Mohitjpr)
